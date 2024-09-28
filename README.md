@@ -1,6 +1,6 @@
 # NeuraNote
 
-NeuraNote is a collaborative note-taking application. Follow the steps below to get the project running locally.
+NeuraNote is a note-taking application similar to notion and obsidian md. Follow the steps below to get the project running locally.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Run the following command to start the MongoDB container:
 docker-compose --build -d
 ```
 
-### 2. Install dependenies 
+### 2. Install dependencies 
 ```bash
 cd frontend
 npm install
@@ -29,7 +29,7 @@ npm install
 ```
 
 ### 3. Add .env files
-Add me on discord will send it too you nikman. or email me nikolas.manuel13@gmail.com
+Add me on Discord will send it to you nikman. or email me nikolas.manuel13@gmail.com
 
 ### 3. Start servers
 ```bash
